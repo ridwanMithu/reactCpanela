@@ -188,6 +188,7 @@ function App() {
     
   </table>
 </div>
+<div>Hello react is now auto</div>
       </div>
     </>
   )
